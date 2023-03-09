@@ -1,4 +1,4 @@
-what i use (in order of liking)
+what i use to create
 -
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
@@ -18,6 +18,9 @@ what i use (in order of liking)
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
+![Concourse](https://img.shields.io/badge/Concourse-3398DC.svg?style=for-the-badge&logo=Concourse&logoColor=white)
+![Renovate](https://img.shields.io/badge/RenovateBot-1A1F6C.svg?style=for-the-badge&logo=RenovateBot&logoColor=white)
 
 other things i really like
 -
