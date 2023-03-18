@@ -19,7 +19,6 @@ what i use to create
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
-![Concourse](https://img.shields.io/badge/Concourse-3398DC.svg?style=for-the-badge&logo=Concourse&logoColor=white)
 ![Renovate](https://img.shields.io/badge/RenovateBot-1A1F6C.svg?style=for-the-badge&logo=RenovateBot&logoColor=white)
 
 other things i really like
@@ -37,6 +36,7 @@ other things i really like
 ![Thingverse](https://img.shields.io/badge/Thingiverse-248BFB.svg?style=for-the-badge&logo=Thingiverse&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![HomeAssistant](https://img.shields.io/badge/Home%20Assistant-41BDF5.svg?style=for-the-badge&logo=Home-Assistant&logoColor=white)
+![AdGuard](https://img.shields.io/badge/AdGuard-68BC71.svg?style=for-the-badge&logo=AdGuard&logoColor=white)
 
 check out my stuff or support me
 -
