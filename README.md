@@ -34,7 +34,6 @@ other things i really like
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![Thingverse](https://img.shields.io/badge/Thingiverse-248BFB.svg?style=for-the-badge&logo=Thingiverse&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![HomeAssistant](https://img.shields.io/badge/Home%20Assistant-41BDF5.svg?style=for-the-badge&logo=Home-Assistant&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71.svg?style=for-the-badge&logo=AdGuard&logoColor=white)
 
