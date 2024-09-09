@@ -1,6 +1,6 @@
 welcome to my GitHub profile
 -
-it is very empty here, i moved all my stuff to my own platform, shoutout to: [Gitea](https://github.com/go-gitea/gitea) 💚
+it is very empty here, i moved all my stuff to my own selfhosted platform...
 
 check out my stuff or support me
 -
